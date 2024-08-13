@@ -1,18 +1,16 @@
 {
-  "vendor": "CHANGE_ME",
-  "name": "CHANGE_ME",
-  "version": "0.0.0",
-  "title": "CHANGE_ME",
-  "description": "CHANGE_ME",
+  "vendor": "biggy",
+  "name": "hello-world",
+  "version": "0.0.1",
+  "title": "Teste Luara",
+  "description": "Teste da Luara",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
     "docs": "0.x"
   },
   "dependencies": {},
-  "registries": [
-    "smartcheckout"
-  ],
+  "registries": ["smartcheckout"],
   "policies": [],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
